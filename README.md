@@ -10,7 +10,24 @@
 ###
 
 <br clear="both">
-
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
+            href="mailto:your-email@example.com"
+            height="35" alt="gmail logo" />
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
+            href="https://www.linkedin.com/in/amritesh-anand/"
+            height="35" alt="linkedin logo" />
+        <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge"
+            href="https://twitter.com/Amritesh2901"
+            height="35" alt="twitter logo" />
+        <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge"
+            href="https://stackoverflow.com/users/20813798/amritesh-anand"
+            height="35" alt="stackoverflow logo" />
+        <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge"
+            href="https://www.hackerrank.com/profile/amritesh2901"
+            height="35" alt="hackerrank logo" />
+</div>
+<br clear="both">
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
