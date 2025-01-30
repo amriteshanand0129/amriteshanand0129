@@ -1,4 +1,4 @@
-![Header](./github-header.png)
+![Header](./github-header-image.png)
 <h2 align="left">Hi 👋! My name is Amritesh Anand and I'm a Full Stack Developer from India</h2>
 <img align="right" height="200" src="https://verisoft.ai/wp-content/uploads/2022/05/programmer-animation.gif" />
 
