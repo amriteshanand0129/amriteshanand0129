@@ -11,27 +11,27 @@
 
 <br clear="both">
 <div align="left">
-  <a href="mailto:your-email@example.com" target="_blank">
+        <a href="mailto:your-email@example.com" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
-            height="35" alt="gmail logo" />
+                height="35" alt="gmail logo" />
         </a>
-        <a href="https://www.linkedin.com/in/amritesh-anand/" target="_blank">
+        <a href="https://www.linkedin.com/in/amritesh-anand/" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
-            height="35" alt="linkedin logo" />
+                height="35" alt="linkedin logo" />
         </a>
-        <a href="https://twitter.com/Amritesh2901" target="_blank">
+        <a href="https://twitter.com/Amritesh2901" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge"
-            height="35" alt="twitter logo" />
+                height="35" alt="twitter logo" />
         </a>
-        <a href="https://stackoverflow.com/users/20813798/amritesh-anand" target="_blank">
+        <a href="https://stackoverflow.com/users/20813798/amritesh-anand" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge"
-            href="https://stackoverflow.com/users/20813798/amritesh-anand" height="35" alt="stackoverflow logo" />
+                height="35" alt="stackoverflow logo" />
         </a>
-        <a href="https://www.hackerrank.com/profile/amritesh2901" target="_blank">
+        <a href="https://www.hackerrank.com/profile/amritesh2901" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge"
-            href="https://www.hackerrank.com/profile/amritesh2901" height="35" alt="hackerrank logo" />
+                height="35" alt="hackerrank logo" />
         </a>
-</div>
+    </div>
 <br clear="both">
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
