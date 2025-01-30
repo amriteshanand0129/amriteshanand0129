@@ -15,22 +15,22 @@
     <a href="https://twitter.com/amritesh2901">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amritesh2901" height="30" width="40" />
     </a>
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/amritesh-anand/">
+    <a href="https://www.linkedin.com/in/amritesh-anand/">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amritesh-anand/" height="30" width="40" />
     </a>
-    <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20813798/amritesh-anand">
+    <a href="https://stackoverflow.com/users/20813798/amritesh-anand">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20813798/amritesh-anand" height="30" width="40" />
     </a>
-    <a href="https://www.codechef.com/users/https://www.codechef.com/users/amriteshanand1">
+    <a href="https://www.codechef.com/users/amriteshanand1">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/amriteshanand1" height="30" width="40" />
     </a>
-    <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/amritesh2901">
+    <a href="https://www.hackerrank.com/profile/amritesh2901">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/amritesh2901" height="30" width="40" />
     </a>
-    <a href="https://www.leetcode.com/https://leetcode.com/u/amriteshanand1/">
+    <a href="https://leetcode.com/u/amriteshanand1/">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/amriteshanand1/" height="30" width="40" />
     </a>
-    <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/amritesh2901/">
+    <a href="https://www.geeksforgeeks.org/user/amritesh2901/">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/amritesh2901/" height="30" width="40" />
     </a>
 </p>
