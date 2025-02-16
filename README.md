@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN and AWS** and practicing DSA
 
-- 📄 Checkout my [Resume](https://drive.google.com/file/d/12HqRa70cLD-5Ds85l-yHi5QfMByuTxwt/view?usp=sharing)
+- 📄 Checkout my [Resume](https://drive.google.com/file/d/1qR1CmAZjg2d3E0_ebHcCas65L2T6Z6xa/view?usp=drive_link)
 
 <br clear="both">
 
