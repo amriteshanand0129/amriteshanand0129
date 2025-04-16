@@ -1,10 +1,10 @@
 ![Header](./github-header-image.png)
-<h2 align="left">Hi 👋! My name is Amritesh Anand and I'm a Full Stack Developer from India</h2>
+<h2 align="left">Hi 👋! My name is Amritesh Anand and I'm a Backend Developer from India</h2>
 <img align="right" height="200" src="https://verisoft.ai/wp-content/uploads/2022/05/programmer-animation.gif" />
 
-- 🔭 I’m currently working on [NotesVault](https://github.com/amriteshanand0129/NotesVault_V2)
+- 🔭 I’m currently working as SDE Intern at [MoveInSync](https://www.linkedin.com/in/amritesh-anand/)
 
-- 🌱 I’m currently learning **MERN and AWS** and practicing DSA
+- 🌱 I’m currently learning **Spring** and practicing DSA
 
 - 📄 Checkout my [Resume](https://drive.google.com/file/d/1qR1CmAZjg2d3E0_ebHcCas65L2T6Z6xa/view?usp=drive_link)
 
