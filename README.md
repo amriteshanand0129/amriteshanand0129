@@ -2,7 +2,7 @@
 <h2 align="left">Hi 👋! My name is Amritesh Anand and I'm a Backend Developer from India</h2>
 <img align="right" height="200" src="https://verisoft.ai/wp-content/uploads/2022/05/programmer-animation.gif" />
 
-- 🔭 I’m currently working as SDE Intern at [MoveInSync](https://www.linkedin.com/in/amritesh-anand/)
+- 🔭 I’m currently working as SDE 1 at [MoveInSync](https://www.linkedin.com/in/amritesh-anand/)
 
 - 🌱 I’m currently learning **Spring** and practicing DSA
 
